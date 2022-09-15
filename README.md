@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [AI ML In Health Sciences and Machine Learning ](https://github.com/tusharrasal)
 
-- 🤝 I’m looking for help with [Python to Microscopic image analysis](https://github.com/tusharrasal/Vision-AI)
+- 🤝 I’m looking for help with [VisionTransformer for Healthcare](https://github.com/tusharrasal/Vision-AI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tusharrasal](https://github.com/tusharrasal)
 
