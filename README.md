@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharrasal" alt="tusharrasal" /></a> </p>
 
-- 🔭 I’m currently working on [ML and AI for Medical Applications](https://github.com/tusharrasal)
+- 🔭 I’m currently working on [ML and AI for Microscopic image Analysis and Healthcare Applications](https://github.com/tusharrasal)
 
 - 🌱 I’m currently learning **VisionTransformer**
 
