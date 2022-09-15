@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dr. Tushar Rasal</h1>
-<h3 align="center">A passionate AI-ML-EDGE developer from Multiverse 1729</h3>
+<h3 align="center">A passionate AI-ML-Healthcare Applications</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharrasal" alt="tusharrasal" /></a> </p>
 
-- 🔭 I’m currently working on [Privacy and Data security with GAN's](https://github.com/charudatta10)
+- 🔭 I’m currently working on [ML and AI for Medical Applications](https://github.com/tusharrasal)
 
-- 🌱 I’m currently learning **HLS4ML**
+- 🌱 I’m currently learning **VisionTransformer**
 
-- 👯 I’m looking to collaborate on [AI ML EDGE devices](https://github.com/charudatta10)
+- 👯 I’m looking to collaborate on [AI ML In Health Sciences and Machine Learning ](https://github.com/tusharrasal)
 
-- 🤝 I’m looking for help with [Python to edge flow](https://github.com/charudatta10/Vitis-AI)
+- 🤝 I’m looking for help with [Python to Microscopic image analysis](https://github.com/tusharrasal/Vision-AI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/charudatta10](https://github.com/charudatta10)
+- 👨‍💻 All of my projects are available at [https://github.com/tusharrasal](https://github.com/tusharrasal)
 
-- 💬 Ask me about **Genetic Algorithm, GANs, FPGAs**
+- 💬 Ask me about **Machine Learning, Microscopic Image Analysis, Cancer Detection**
 
-- 📫 How to reach me **10682378+charudatta10@users.noreply.github.com**
+- 📫 How to reach me **10682378+tusharrasal@users.noreply.github.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
