@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dr. Tushar Rasal</h1>
-<h3 align="center">A passionate AI-ML-Healthcare Applications</h3>
+<h3 align="center">A passionate in AI-ML-Health Science </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharrasal" alt="tusharrasal" /></a> </p>
 
